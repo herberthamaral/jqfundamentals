@@ -371,7 +371,7 @@ $('#minhaListaNaoOrdenada li').die('click');</programlisting>
   </section>
 
   <section>
-    <title>Exercises</title>
+    <title>Exercícios</title>
 
     <xi:include href="exercises/input-hint.xml" xpointer="element(/1)" />
 
